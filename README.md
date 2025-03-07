@@ -1,5 +1,5 @@
 # dados-salão
-Banco de dados sobre salão de cabelereiro
+Banco de dados sobre salão de cabelelereiro
 
 
 
